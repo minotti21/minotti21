@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, meu nome é Vinicius Minotti, um aspirante a desenvolvedor full stack :D
 
-<!--
-**minotti21/minotti21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔴 Atualmente estou estudando HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔵 Meu foco é trabalhar como dev front-end e futuramente full stack
+
+🟡 Adoro aprender coisas novas
+
+🟢 Meu e-mail para contato é vinicius.minotti21@gmail.com
+
+
+  
+##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+
+
