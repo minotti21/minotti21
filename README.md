@@ -9,6 +9,8 @@
 
 🟢 Meu e-mail para contato é vinicius.minotti21@gmail.com
 
+🟤 Meu LinkedIn é https://www.linkedin.com/in/vinicius-minotti-866380228/
+
 
   
 ##
