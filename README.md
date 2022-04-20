@@ -1,7 +1,7 @@
 ## Olá, meu nome é Vinicius Minotti, um aspirante a desenvolvedor full stack :D
 
 
-🔴 Atualmente estou estudando HTML, CSS e JavaScript
+🔴 Atualmente tenho conhecimento em HTML, CSS, Javascript e estou estudando React
 
 🔵 Meu foco é trabalhar como dev front-end e futuramente full stack
 
