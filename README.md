@@ -13,10 +13,10 @@
 
 ##
 
-### Tecnologias que utilizo
+### Tecnologias utilizadas por mim
   
 <div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/viniciusminotti/">
+  <a href="https://www.linkedin.com/in/viniciusminotti/" target="_blank">
   <img align="center" alt="HTML" height="60" width="60" src="https://img.icons8.com/color/344/html-5--v1.png">
   <img align="center" alt="CSS" height="60" width="60" src="https://img.icons8.com/color/344/css3.png">
   <img align="center" alt="Js" height="60" width="60" src="https://img.icons8.com/color/344/javascript--v1.png">
