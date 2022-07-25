@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Vinicius Minotti e sou desenvolvedor front-end
 
 
-🔴 Tenho experiência com HTML, CSS, Javascript, React e estou aprimorando meus conhecimentos em Banco de Dados/Node.js
+🔴 Tenho experiência com HTML, CSS, Javascript, React e Next
 
 🔵 Meu foco é trabalhar como dev front-end e posteriormente full stack
 
