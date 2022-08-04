@@ -17,7 +17,7 @@
 
 ## 💻 Tecnologias
 
-<div display: "inline-block">
+<div display: "inline-block" hover: "none">
   <a href="https://www.linkedin.com/in/viniciusminotti/" target="_blank">
   <img alt="HTML" height="60" width="60" src="https://img.icons8.com/color/344/html-5--v1.png">
   <img alt="CSS" height="60" width="60" src="https://img.icons8.com/color/344/css3.png">
