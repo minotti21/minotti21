@@ -16,8 +16,9 @@
 
 
 ## 💻 Tecnologias
-<a href="https://www.linkedin.com/in/viniciusminotti/" target="_blank">
+
 <div>
+  <a href="https://github.com/minotti21">
   <img alt="HTML" height="60" width="60" src="https://img.icons8.com/color/344/html-5--v1.png">
   <img alt="CSS" height="60" width="60" src="https://img.icons8.com/color/344/css3.png">
   <img alt="Javascript" height="60" width="60" src="https://img.icons8.com/color/344/javascript--v1.png">
