@@ -1,27 +1,39 @@
-## Olá! Meu nome é Vinicius Minotti e sou desenvolvedor front-end
+# Olá! Meu nome é Vinicius Minotti e sou desenvolvedor front-end 👋
 
 
-🔴 Tenho experiência com HTML, CSS, Javascript, React e Next
+## 🚀 Sobre mim
 
-🔵 Meu foco é trabalhar como dev front-end e posteriormente full stack
+🔴 Venho estudando desenvolvimento web há um ano
 
-🟡 Gosto muito de tecnologia e passo horas na frente do computador
+🔵 Pretendo trabalhar como dev front-end e posteriormente full stack
 
-🟢 Meu LinkedIn é https://www.linkedin.com/in/viniciusminotti/
+🟡 Tenho como meta influenciar positivamente a vida de pessoas a partir da tecnologia
 
-🟤 Meu e-mail para contato é vinicius.minotti21@gmail.com
+🟢 E-mail para contato: vinicius.minotti21@gmail.com
 
-##
+🟣 LinkedIn: https://www.linkedin.com/in/viniciusminotti/
 
-### Tecnologias utilizadas por mim
-  
+
+
+## 💻 Tecnologias
+
+
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/viniciusminotti/" target="_blank">
-  <img align="center" alt="HTML" height="60" width="60" src="https://img.icons8.com/color/344/html-5--v1.png">
-  <img align="center" alt="CSS" height="60" width="60" src="https://img.icons8.com/color/344/css3.png">
-  <img align="center" alt="Js" height="60" width="60" src="https://img.icons8.com/color/344/javascript--v1.png">
-  <img align="center" alt="Js" height="60" width="60" src="https://img.icons8.com/color/344/react-native.png">
+  <img align="center" alt="HTML" height="60" width="60" src="https://www.svgrepo.com/show/353884/html-5.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="https://www.svgrepo.com/show/353623/css-3.svg">
+  <img align="center" alt="Javascript" height="60" width="60" src="https://www.svgrepo.com/show/355081/js.svg">
+  <img align="center" alt="React" height="60" width="60" src="https://www.svgrepo.com/show/354259/react.svg">
+  <img align="center" alt="React" height="60" width="60" src="https://www.svgrepo.com/show/354112/nextjs.svg">
 </div>
 
+## 💡 Informações adicionais
 
 
+🧠 Meu foco é me especializar totalmente no Front End e suas tecnologias
+
+👩‍💻 Estou em busca de trabalho
+
+💬 Meu nível em inglês é avançado
+
+🎮 Meus hobbies são: jogar jogos de computador, xadrez e andar de bicicleta
