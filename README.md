@@ -32,4 +32,4 @@
 
 💬 Meu nível em inglês é avançado
 
-🎮 Meus hobbies são: jogar jogos de computador, xadrez e andar de bicicleta
+🎮 Tenho como hobbies jogar jogos de computador, xadrez e andar de bicicleta
