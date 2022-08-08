@@ -22,6 +22,7 @@
   <img align="center" alt="Javascript" height="60" width="60" src="https://img.icons8.com/color/344/javascript--v1.png">
   <img align="center" alt="React" height="60" width="68" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
   <img align="center" alt="Next" height="60" width="60" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
+  <img align="center" alt="Sass" height="60" width="60" src="https://www.cursou.com.br/wp-content/uploads/2019/09/Curso-de-Sass.png">
 <div/>
 
 ## 💡 Informações adicionais
