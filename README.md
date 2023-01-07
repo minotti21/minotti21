@@ -1,10 +1,10 @@
-# Olá! Meu nome é Vinicius Minotti e sou desenvolvedor front-end 👋
+# Olá! Meu nome é Vinicius Minotti 👋
 
 ## 🚀 Sobre mim
 
-🔴 Venho estudando desenvolvimento web há um ano
+🔴 Tenho contato com desenvolvimento web há mais de um ano
 
-🔵 Pretendo trabalhar como dev front-end e posteriormente full stack
+🔵 Atualmente trabalho como desenvolvedor React Native
 
 🟡 Tenho como meta influenciar positivamente a vida de pessoas a partir da tecnologia
 
@@ -27,9 +27,9 @@
 
 ## 💡 Informações adicionais
 
-🧠 Meu foco é me especializar totalmente no Front End e suas tecnologias
+🧠 Meu foco é me tornar um dev full-stack
 
-👩‍💻 Estou em busca de trabalho
+👩‍💻 Tenho autonomia utilizando React e React Native
 
 💬 Meu nível em inglês é avançado
 
