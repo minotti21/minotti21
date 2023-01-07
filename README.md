@@ -31,6 +31,6 @@
 
 👩‍💻 Tenho autonomia utilizando React e React Native
 
-💬 Meu nível em inglês é avançado
+💬 Meu nível de inglês é avançado
 
-🎮 Tenho como hobbies jogar jogos de computador, xadrez e andar de bicicleta
+🎮 Tenho como hobbies jogar jogos de computador, assistir séries e vídeos de meu interesse
