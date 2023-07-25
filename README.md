@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-🔴 Tenho contato com desenvolvimento web há mais de um ano
+🔴 Tenho dois anos de experiência com desenvolvimento
 
 🔵 Atualmente trabalho como desenvolvedor React Native
 
@@ -27,10 +27,10 @@
 
 ## 💡 Informações adicionais
 
-🧠 Meu foco é me tornar um dev full-stack
+🧠 Sou um desenvolvedor Full Stack
 
-👩‍💻 Tenho autonomia utilizando React e React Native
+👩‍💻 Tenho autonomia utilizando React, React Native e Node
 
 💬 Meu nível de inglês é avançado
 
-🎮 Tenho como hobbies jogar jogos de computador, assistir séries e vídeos de meu interesse
+🎮 Tenho como hobbies jogar jogos, assistir séries e vídeos de meu interesse
