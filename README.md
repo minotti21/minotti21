@@ -4,7 +4,7 @@
 
 🔴 Tenho dois anos de experiência com desenvolvimento
 
-🔵 Atualmente trabalho como desenvolvedor React Native
+🔵 Atuo como desenvolvedor Fullstack nas tecnologias: React Native, Java Android, Java e Spring Boot.
 
 🟡 Tenho como meta influenciar positivamente a vida de pessoas a partir da tecnologia
 
@@ -27,10 +27,8 @@
 
 ## 💡 Informações adicionais
 
-🧠 Sou um desenvolvedor Full Stack
-
-👩‍💻 Tenho autonomia utilizando React, React Native e Node
+👩‍💻 Tenho autonomia para realizar projetos frontend e backend. 
 
 💬 Meu nível de inglês é avançado
 
-🎮 Tenho como hobbies jogar jogos, assistir séries e vídeos de meu interesse
+🎮 Tenho como hobbies praticar esportes, assistir séries e vídeos de meu interesse
