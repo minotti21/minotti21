@@ -20,4 +20,4 @@
 
 💬 Meu nível de inglês é avançado
 
-🎮 Meus hobbies são: praticar esportes, jogar no pc e assistir vídeos e séries de meu interesse
+🎮 Meus hobbies são: praticar esportes, passar tempo na natureza, assistir vídeos e ler livros de meu interesse
