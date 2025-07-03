@@ -2,9 +2,9 @@
 
 ## 🚀 Sobre mim
 
-🔴 Possuo três anos de experiência com desenvolvimento
+🔴 Possuo quatro anos de experiência com desenvolvimento
 
-🔵 Atuo como desenvolvedor Fullstack nas tecnologias: React Native, Android Nativo, Java com Spring Boot e PostgreSQL
+🔵 Sou especialista em JavaScript e atuo como desenvolvedor full stack
 
 ⚪ Tenho proficiência em React, Next, React Native, Node, Express, Typescript, Redux, CSS in JS, Tailwind, SCSS, SQL e sei me virar muito bem com qualquer tecnologia ou linguagem
 
