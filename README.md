@@ -16,7 +16,7 @@
 
 ## 💡 Informações adicionais
 
-👩‍💻 Tenho autonomia para realizar projetos frontend e backend
+👩‍💻 Tenho autonomia para desenvolver aplicações web e mobile completas
 
 💬 Meu nível de inglês é avançado
 
