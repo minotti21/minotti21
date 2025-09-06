@@ -1,23 +1,24 @@
-# Olá! Meu nome é Vinicius Minotti 👋
+Hi, I'm Vinicius Minotti 👋
+<br/>
 
-## 🚀 Sobre mim
+A Senior Full Stack Engineer with over 3 years of professional experience in architecting and building scalable web and mobile applications from concept to production.
 
-🔴 Possuo quatro anos de experiência com desenvolvimento
+My passion is leveraging technology to solve complex problems and positively impact people's lives. I specialize in the JavaScript/TypeScript ecosystem and I'm adept at quickly mastering new tools and technologies to deliver high-quality, user-centric products.
 
-🔵 Sou especialista em JavaScript e atuo como desenvolvedor full stack
+<br/>
 
-⚪ Tenho proficiência em React, Next, React Native, Node, Express, Typescript, Redux, CSS in JS, Tailwind, SCSS, SQL e sei me virar muito bem com qualquer tecnologia ou linguagem
+🚀 Core Technologies: TypeScript, React, Next.js, React Native, Node.js, Express.js
 
-🟡 Tenho como meta influenciar positivamente a vida de pessoas a partir da tecnologia
+⚙️ Tools & Skills: PostgreSQL, MongoDB, Docker, Google Cloud Platform (GCP), Git, CI/CD, Expo Application Services (EAS), Tailwind CSS
 
-🟢 E-mail para contato: vinicius.minotti21@gmail.com
+🌱 Currently exploring: Advanced back-end architecture and system design.
 
-🟣 LinkedIn: https://www.linkedin.com/in/viniciusminotti/
+💬 Languages: Portuguese (Native), English (Advanced)
 
-## 💡 Informações adicionais
+<br/>
 
-👩‍💻 Tenho autonomia para desenvolver aplicações web e mobile completas
+📫 How to reach me:
 
-💬 Meu nível de inglês é avançado
+Email: vinicius.minotti21@gmail.com
 
-🎮 Meus hobbies são: praticar esportes, passar tempo na natureza, assistir vídeos e ler livros de meu interesse
+LinkedIn: [linkedin.com/in/viniciusminotti](https://www.linkedin.com/in/viniciusminotti/)
