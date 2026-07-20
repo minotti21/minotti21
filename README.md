@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-I'm a Senior Mobile Engineer with 4+ years shipping production iOS/Android apps in **React Native, TypeScript, and Expo**, currently focused on **offline-first architecture** and **IoT/hardware integration** (BLE). I took a greenfield IoT app from kickoff to production in 5 months on a two-engineer team, and I've architected zero-touch CI/CD pipelines that cut release effort by ~60%.
+I'm a Senior Mobile Engineer with 4+ years shipping production iOS/Android apps in **React Native, TypeScript, and Expo**, currently focused on **offline-first architecture** and **IoT/hardware integration** (BLE). I took a greenfield IoT app from kickoff to production in 5 months on a two-engineer team, and previously I've architected zero-touch CI/CD pipelines that cut release effort by ~60%.
 
 I'm looking for a **senior remote mobile engineering role with a US product company.**
 
