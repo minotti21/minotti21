@@ -14,7 +14,7 @@
 
 ### 👋 About me
 
-I'm a Senior Mobile Engineer with 4+ years shipping production iOS/Android apps in **React Native, TypeScript, and Expo**, currently focused on **offline-first architecture** and **IoT/hardware integration** (BLE). I took a greenfield IoT app from kickoff to production in 5 months on a two-engineer team, and previously I've architected zero-touch CI/CD pipelines that cut release effort by ~60%.
+I'm a Senior Mobile Engineer with 5+ years shipping production iOS/Android apps in **React Native, TypeScript, and Expo**, currently focused on **offline-first architecture** and **IoT/hardware integration** (BLE). I took a greenfield IoT app from kickoff to production in 5 months on a two-engineer team, and previously I've architected zero-touch CI/CD pipelines that cut release effort by ~60%.
 
 I'm looking for a **senior remote mobile engineering role with a US product company.**
 
@@ -84,16 +84,6 @@ I'm looking for a **senior remote mobile engineering role with a US product comp
 | **OOriginal** (Remote, Brazil) | Senior Mobile Engineer | 01/2025 – 02/2026 | Sole mobile/frontend engineer on a 2-app + dashboard rewrite; ~60% faster releases via CI/CD |
 | **SHX** (São Paulo, Brazil) | Full Stack Engineer | 09/2022 – 01/2025 | Maintained 5 production apps (~4,000 daily users); built offline-first GPS tracking + in-app POS payments |
 | **Lupo** (São Paulo, Brazil) | Administrative Assistant | 04/2019 – 08/2020 | Self-taught VBA to automate SAP workflow, cutting processing time ~87% |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minotti21&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
