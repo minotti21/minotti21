@@ -16,8 +16,6 @@
 
 I'm a Full Stack Engineer with 5+ years shipping production software end to end, frontend, backend, mobile, databases, and infrastructure. I've been the only engineer on a product more than once, so I've had to be good across the whole stack, not just one layer of it: **React, TypeScript, Node.js, C#/.NET, Java/Spring Boot, PostgreSQL, and React Native/Expo.**
 
-I took a greenfield offline-first IoT app from kickoff to production in 5 months on a two-engineer team, integrating with hardware over BLE, and previously architected zero-touch CI/CD pipelines that cut release effort by ~60%. I like being the person who can pick up whatever the project actually needs.
-
 ---
 
 ### 🚀 Highlights
